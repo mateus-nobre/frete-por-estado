@@ -1,26 +1,25 @@
 # MAPA - FRETE POR ESTADO
 
-Section para woocommerce, informação de frete médio por estado. Utilize o Shortcode [frete-por-estado].
+Section para woocommerce, informação de frete médio por estado. Plugin para adição de mapa dinamico com retorno imediato de média de valores de frete por região.
+Utilize o Shortcode [frete-por-estado] em suas páginas para utilizar.
 
 ## 🚀 Conteúdo
 
-Recursos 		(pasta com detalhes que podem vir a ser uteis para a configuração do plugin)
-Install-frete-por-estado.zip 	(instalador do plugin para ser usado no wordpress)
+Recursos (pasta com itens para auxilio na instalação do plugin e .gif com exemplo de utilização).
+Install-frete-por-estado.zip (instalador do plugin para ser usado diretamente no wordpress).
 .README
 		
 
 ### 📋 Pré-requisitos
 
-De que coisas você precisa para instalar o software e como instalá-lo?
+Este plugin depende o uso do plugin de nome JetEngine.
+* Pode ser baixado no link a seguir: https://crocoblock.com/plugins/jetengine/?gclid=Cj0KCQiAveebBhD_ARIsAFaAvrEqdXiCtfXgvwRMK61j95QgrefjixJ9UGKXfQAYqC0MmzTZvgCeoQQaAtZsEALw_wcB
 
-```
-Dar exemplos
-```
 
 ### 🔧 Instalação
 
-** Configuração do JetEngine:
-		> Instalar primeiramente o plugin JetEngine.
+Configuração do JetEngine:
+> Instalar primeiramente o plugin JetEngine.
 
 Criação de "Glossarie":
 		
