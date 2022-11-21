@@ -6,7 +6,7 @@ Utilize o Shortcode [frete-por-estado] em suas páginas para utilizar.
 ## 🚀 Conteúdo
 
 * Recursos (pasta com itens para auxilio na instalação do plugin e .gif com exemplo de utilização).
-* Install-frete-por-estado.zip (instalador do plugin para ser usado diretamente no wordpress).
+* frete-por-estado.zip (instalador do plugin para ser usado diretamente no wordpress).
 * .README
 		
 
