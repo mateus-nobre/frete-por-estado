@@ -1,0 +1,1 @@
+BrMap.Draw({wrapper:"#br_mine",callbacks:{click:(e,c)=>{console.log(e.querySelector("desc").textContent),console.log(c)}}});
