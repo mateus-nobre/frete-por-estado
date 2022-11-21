@@ -5,14 +5,14 @@ Utilize o Shortcode [frete-por-estado] em suas páginas para utilizar.
 
 ## 🚀 Conteúdo
 
-Recursos (pasta com itens para auxilio na instalação do plugin e .gif com exemplo de utilização).
-Install-frete-por-estado.zip (instalador do plugin para ser usado diretamente no wordpress).
-.README
+* Recursos (pasta com itens para auxilio na instalação do plugin e .gif com exemplo de utilização).
+* Install-frete-por-estado.zip (instalador do plugin para ser usado diretamente no wordpress).
+* .README
 		
 
 ### 📋 Pré-requisitos
 
-Este plugin depende o uso do plugin de nome JetEngine.
+Este plugin tem por depêndencia JetEngine.
 * Pode ser baixado no link a seguir: https://crocoblock.com/plugins/jetengine/?gclid=Cj0KCQiAveebBhD_ARIsAFaAvrEqdXiCtfXgvwRMK61j95QgrefjixJ9UGKXfQAYqC0MmzTZvgCeoQQaAtZsEALw_wcB
 
 
@@ -39,14 +39,12 @@ Criação de "Page Options":
 * Na nova tela que será aberta, em "Page Title" pedimos para selecionar "Mapa Dinâmico" como nome.
 * O "Page slug" deve ficar "mapa-dinamico"
 * Icones e demais configurações da guia "General Settings" ficam ao seu encargo.
-		
-    
-Criação dos Custom Fields
-* Na guia de Fields abaixo, criar um campo chamado "Estados" em sua label, em seu tipo escolher a opção "Repeater"
-* Seu primeiro campo deve ser chamado de "Estado" (no singular). 
-* No campo "Get options from the glossary" selecione o glossario configurado na etapa anterior.
-* Adicionar também novo campo dentro do repeater, desta vez do tipo "Texto".
-* Campo este que apenas deve ser nomeado como "Frete", tendo seu slug "frete".
+* Criação dos Custom Fields
+	- Na guia de Fields abaixo, criar um campo chamado "Estados" em sua label, em seu tipo escolher a opção "Repeater"
+	- Seu primeiro campo deve ser chamado de "Estado" (no singular). 
+	- No campo "Get options from the glossary" selecione o glossario configurado na etapa anterior.
+	- Adicionar também novo campo dentro do repeater, desta vez do tipo "Texto".
+	- Campo este que apenas deve ser nomeado como "Frete", tendo seu slug "frete".
 
 
 Encerramos aqui as configurações relacionadas ao JetEngine.
@@ -54,10 +52,10 @@ Encerramos aqui as configurações relacionadas ao JetEngine.
 
 ## 📦 Configuração do Plugin: 
 
-Instalar o arquivo "install-frete-por-estado.zip" 
+* Instalar o arquivo "install-frete-por-estado.zip" 
 			
- Agora apenas é necessário popular a option pages com o select do campo "Estado" e frete escrito por "R$ XX,XX" substituindo "X" por números dos valores.
- Abrir alguma página da sua escolha e com o próprio editor do wordpress inserior o shortcode [frete-por-estado]
+ * Agora apenas é necessário popular a option pages com o select do campo "Estado" e frete escrito por "R$ XX,XX" substituindo "X" por números dos valores.
+ * Abrir alguma página da sua escolha e com o próprio editor do wordpress inserior o shortcode [frete-por-estado]
 			
 			
 
