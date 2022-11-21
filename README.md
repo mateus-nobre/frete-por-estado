@@ -24,8 +24,8 @@ Dar exemplos
 
 Criação de "Glossarie":
 		
- No painel administrativo do WordPress navegar até a opção: JetEngine > JetEngine.
- Na tela de configuração do plugin navegar até a opção "Glossaries".
+ * No painel administrativo do WordPress navegar até a opção: JetEngine > JetEngine.
+ * Na tela de configuração do plugin navegar até a opção "Glossaries".
 	- Sua tela provavelmente estará sem Glossario algum configurado. De toda forma você deve selecionar a opção "+ New Glossary"
 	- No campo "Name" escreva o nome para a glossario a ser utilizado.
 	- Em "Data Source" seleciona a opção - "Get items from uploaded file".
@@ -35,19 +35,19 @@ Criação de "Glossarie":
 	- Após isto clicar em "Save".
 
 Criação de "Page Options":
- No painel administrativo do WordPress navegar até a opção: JetEngine > Options Pages.
- Na parte superior da tela clicar na opção "Add New".
- Na nova tela que será aberta, em "Page Title" pedimos para selecionar "Mapa Dinâmico" como nome.
- O "Page slug" deve ficar "mapa-dinamico"
- Icones e demais configurações da guia "General Settings" ficam ao seu encargo.
+* No painel administrativo do WordPress navegar até a opção: JetEngine > Options Pages.
+* Na parte superior da tela clicar na opção "Add New".
+* Na nova tela que será aberta, em "Page Title" pedimos para selecionar "Mapa Dinâmico" como nome.
+* O "Page slug" deve ficar "mapa-dinamico"
+* Icones e demais configurações da guia "General Settings" ficam ao seu encargo.
 		
     
 Criação dos Custom Fields
- Na guia de Fields abaixo, criar um campo chamado "Estados" em sua label, em seu tipo escolher a opção "Repeater"
- Seu primeiro campo deve ser chamado de "Estado" (no singular). 
- No campo "Get options from the glossary" selecione o glossario configurado na etapa anterior.
- Adicionar também novo campo dentro do repeater, desta vez do tipo "Texto".
- Campo este que apenas deve ser nomeado como "Frete", tendo seu slug "frete".
+* Na guia de Fields abaixo, criar um campo chamado "Estados" em sua label, em seu tipo escolher a opção "Repeater"
+* Seu primeiro campo deve ser chamado de "Estado" (no singular). 
+* No campo "Get options from the glossary" selecione o glossario configurado na etapa anterior.
+* Adicionar também novo campo dentro do repeater, desta vez do tipo "Texto".
+* Campo este que apenas deve ser nomeado como "Frete", tendo seu slug "frete".
 
 
 Encerramos aqui as configurações relacionadas ao JetEngine.
